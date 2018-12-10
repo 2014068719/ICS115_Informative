@@ -1,0 +1,70 @@
+<resources>
+    <string name="app_name">Before, during, after disasters</string>
+    <string name="text1"> Flood </string>
+    <string name="text2"> Earthquake </string>
+    <string name="text3"> Typhoon </string>
+    <string name="text4"> Drought </string>
+    <string name="text5"> SELECT TYPE OF DISASTER </string>
+    <string name="text6"> FLOOD </string>
+    <string name="text7"> BEFORE FLOOD </string>
+    <string name="text8"> DURING FLOOD </string>
+    <string name="text9"> AFTER FLOOD </string>
+    <string name="text10"> <ul>
+        <li>Avoid building in a flood-prone area unless you elevate and reinforce your home.\n\n</li>
+        <li>Contact community officials to find out if they are planning to construct barriers (levees, beams, floodwalls) to stop water from entering the homes in your area.\n\n</li>
+        <li>Seal the walls in your basement with waterproofing compounds to avoid seepage.</li>
+    </ul></string>
+    <string name="text11"> Return </string>
+    <string name="text12"> <ul>
+        <li>Listen to the radio or television for information.\n\n</li>
+        <li>Be aware that flash flooding can occur. If there is any possibility of that in your area, move immediately to higher ground. Do not wait for instructions to move.\n\n</li>
+        <li>Be aware of streams, drainage channels, canyons, and other areas known to flood suddenly. Flash floods can occur in these areas with or without such typical warnings as rain clouds or heavy rain.</li>
+    </ul></string>
+    <string name="text13"><ul>
+        <li>Listen for news reports to learn whether the community’s water supply is safe to drink.\n\n</li>
+        <li>Avoid flood waters; water may be contaminated by oil, gasoline, or raw sewage. Water may also be electrically charged from underground or downed power lines.\n\n</li>
+        <li>Stay away from downed power lines, and report them to the power company.\n\n</li>
+        <li>Stay out of any building if it is surrounded by flood waters.</li>
+    </ul></string>
+    <string name="text14"> TYPHOON</string>
+    <string name="text15"> BEFORE TYPHOON</string>
+    <string name="text16"> DURING TYPHOON</string>
+    <string name="text17"> AFTER TYPHOON</string>
+    <string name="text18"><ol>
+        <li>Keep yourself updated\n\n</li>
+        <li>Inspect and clean up your house especially your drainage system.\n\n</li>
+        <li>Store ample amount of ready-to-eat foods and water.\n\n</li>
+        <li>If you have second or third floors or any part in your house that is elevated, have your things especially those that generate electricity placed in there.</li>
+    </ol></string>
+    <string name="text19"><ul>
+        <li>If no advice to evacuate was announced, then better stay inside your house.\n\n</li>
+        <li>Keep on monitoring the typhoon’s movement through your television, radio or the internet\n\n</li>
+        <li>If you see signs of water rising, better turn off the main sources of electricity\n\n</li>
+        <li>Do not wade along flooded areas to keep yourself from contacting water-borne diseases.</li>
+    </ul></string>
+    <string name="text20"><lu>
+        <li>Monitor and update yourself with the progress of the typhoon through radio, television or the internet (should this be accessible).\n\n</li>
+        <li>f your house was one of the heavily damaged, make sure that you heed to the advice of the authorities regarding its safety and stability.\n\n</li>
+        <li>Watch out for live wires or any electrical outlet that may be submerged in water.\n\n</li>
+        <li>Wear protective gears such as boots.</li>
+    </lu></string>
+    <string name="text21"><ul>
+        <li>Develop a family earthquake plan. Prepare yourself and your home by completing the activities on this checklist.\n\n</li>
+        <li>Decide how and where your family will reunite if separated.\n\n</li>
+        <li>Know the safe spots in each room: under sturdy tables, desks, or against inside walls.</li>
+    </ul></string>
+    <string name="text22"><ul>
+        <li>If indoors, stay there and take cover under a table, desk, or other sturdy furniture.\n\n</li>
+        <li>Protect your head and body from falling or flying objects.\n\n</li>
+        <li>If driving, stop safely as soon as possible. Stay inside your vehicle until the shaking stops.</li>
+    </ul></string>
+    <string name="text23"><ul>
+        <li>Check for injuries. Render first aid.\n\n</li>
+        <li>Check utilities (water, gas, electric).\n\n</li>
+        <li>Check food and water supplies.</li>
+    </ul></string>
+    <string name="text24"> BEFORE EARTHQUAKE </string>
+    <string name="text25"> DURING EARTHQUAKE </string>
+    <string name="text26"> AFTER EARTHQUAKE </string>
+
+</resources>
