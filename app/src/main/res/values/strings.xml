@@ -66,5 +66,8 @@
     <string name="text24"> BEFORE EARTHQUAKE </string>
     <string name="text25"> DURING EARTHQUAKE </string>
     <string name="text26"> AFTER EARTHQUAKE </string>
+    <string name="text27"> <b> B.D.A. Informative \nApp</b> </string>
+    <string name="text28"> A simple go to application on what you need to \n do before, during, and after disasters.</string>
+    <string name="text29"> CONTINUE </string>
 
 </resources>
